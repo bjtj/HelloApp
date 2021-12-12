@@ -1,0 +1,16 @@
+PODS:
+  - hello-cocoapod (0.1.0)
+
+DEPENDENCIES:
+  - hello-cocoapod (from `./hello-cocoapod`)
+
+EXTERNAL SOURCES:
+  hello-cocoapod:
+    :path: "./hello-cocoapod"
+
+SPEC CHECKSUMS:
+  hello-cocoapod: 80e9869186ce2d559dc6a64fc1a4de9ce56382ff
+
+PODFILE CHECKSUM: 89256453c18ead317b0a844fc0465641225b1b4a
+
+COCOAPODS: 1.11.2
